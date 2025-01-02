@@ -1,0 +1,49 @@
+# Ignorar a pasta do IntelliJ IDEA
+.idea/
+
+# Ignorar arquivos no formato .iml
+*.iml
+
+# Ignorar arquivos compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignorar diretórios de build
+/target/
+/out/
+/build/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de configuração temporários
+*.tmp
+*.lock
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de configuração do sistema operacional
+*.swp
+*.swo
+
+# Ignorar caches de dependências
+/.mvn/
+/node_modules/
+
+# Ignorar arquivos de configuração pessoais do IDE
+*.idea/
+*.vscode/
+*.project
+*.classpath
+*.settings/
+
+# Ignorar arquivos de ambiente
+*.env
+*.env.*
+
+# Ignorar arquivos gerados pelo Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
